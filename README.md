@@ -1,2 +1,7 @@
 # web1
-<h1>웹 공부하기!!</h1>
+
+## html 
+
+## css
+
+## javascript
